@@ -1,0 +1,23 @@
+[33mcommit 9d487705b3f13e256ccae64fceb35f69911ba1ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m, [m[1;32mmain[m[33m)[m
+Author: EdwinDev <eviteri4841@utm.edu.ec>
+Date:   Wed Jan 14 10:31:00 2026 -0500
+
+    Este es mi tercer commit
+
+[33mcommit 8006f77ed4f5213744ed267c2590e647e774ee76[m[33m ([m[1;33mtag: [m[1;33mclase_01[m[33m)[m
+Author: EdwinDev <eviteri4841@utm.edu.ec>
+Date:   Tue Jan 13 09:51:08 2026 -0500
+
+    Se añade el .gitignore
+
+[33mcommit c9ad434a304daa51b8159c731e983e000f795789[m
+Author: EdwinDev <eviteri4841@utm.edu.ec>
+Date:   Tue Jan 6 22:55:14 2026 -0500
+
+    Este es mi segundo commit
+
+[33mcommit 5b8133261bc18a578813a626ffe73eb185226e02[m
+Author: EdwinDev <eviteri4841@utm.edu.ec>
+Date:   Mon Jan 5 23:51:53 2026 -0500
+
+    Este es mi primer comentario
